@@ -220,6 +220,8 @@ restarting adbd as root
 
 有些手机 root 后也无法通过 `adb root` 命令让 adbd 以 root 权限执行，比如三星的部分机型，会提示 `adbd cannot run as root in production builds`，此时可以先安装 adbd Insecure，然后 `adb root` 试试。
 
+adbd Insecure 是一款安卓系统的ADB工具，功能非常的强大，它可以让您在已经ROOT的安卓手机设备上强制以ROOT模式运行adbd，使得adb shell拥有Root权限，连接电脑后使用adb命令可以推送或者拷贝手机里系统的文件和目录。
+
 相应地，如果要恢复 adbd 为非 root 权限的话，可以使用 `adb unroot` 命令。
 
 ### 指定 adb server 的网络端口
