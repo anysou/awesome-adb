@@ -2511,6 +2511,7 @@ Otherwise check for a confirmation dialog on your device.
 * Uiautomator是由谷歌推出的用于UI自动化测试的工具. [Android UIAutomator 自动化测试](https://blog.csdn.net/fmc088/article/details/80532993)
 * [Android uiautomator 使用入门官方教程](https://www.tuicool.com/articles/RVzIrm)
 * [使用uiautomator2自动化测试app](https://me.csdn.net/qq_41664526)
+* [Android UiAutomator 2.0 入门实战教程-慕课网](https://www.imooc.com/video/17034)
 
 ## 致谢
 
