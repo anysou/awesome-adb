@@ -2508,6 +2508,7 @@ Otherwise check for a confirmation dialog on your device.
 * dumpsys是Android自带的强大debug工具,从名字就可以看出，主要是用于dump 当前android system的一些信息,是一项分析手机问题，运行状态，使用情况等十分有效的手段。
 * [Android中AM、PM、dumpsys命令使用总结](https://www.jianshu.com/p/2802683923e0)
 * Uiautomator是由谷歌推出的用于UI自动化测试的工具. [Android UIAutomator 自动化测试](https://blog.csdn.net/fmc088/article/details/80532993)
+* [Android uiautomator 使用入门官方教程](https://www.tuicool.com/articles/RVzIrm)
 
 ## 致谢
 
