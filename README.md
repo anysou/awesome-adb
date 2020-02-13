@@ -198,7 +198,7 @@ Android Debug Bridge version 1.0.36
 Revision 8f855a3d9b35-android
 ```
 
-### 以 root 权限运行 adbd
+### 以 root 权限运行 adbd  [关于ROOT的视频](https://www.imooc.com/video/2568)
 
 adb 的运行原理是 PC 端的 adb server 与手机端的守护进程 adbd 建立连接，然后 PC 端的 adb client 通过 adb server 转发命令，adbd 接收命令后解析运行。
 
