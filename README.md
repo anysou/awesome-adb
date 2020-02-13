@@ -2504,11 +2504,13 @@ Otherwise check for a confirmation dialog on your device.
 
 * AAPT是Android资源打包工具 [Android AAPT详解](https://www.jianshu.com/p/8d691b6bf8b4)
 * am指令是 activity manager的缩写，可以启动Service、Broadcast，杀进程，监控等功能，这些功能都非常便捷调试程序。
+* [am视频介绍](https://www.imooc.com/video/2571)
 * pm工具为包管理（package manager）的简称，可以使用pm工具来执行应用的安装和查询应用宝的信息、系统权限、控制应用
 * dumpsys是Android自带的强大debug工具,从名字就可以看出，主要是用于dump 当前android system的一些信息,是一项分析手机问题，运行状态，使用情况等十分有效的手段。
 * [Android中AM、PM、dumpsys命令使用总结](https://www.jianshu.com/p/2802683923e0)
 * Uiautomator是由谷歌推出的用于UI自动化测试的工具. [Android UIAutomator 自动化测试](https://blog.csdn.net/fmc088/article/details/80532993)
 * [Android uiautomator 使用入门官方教程](https://www.tuicool.com/articles/RVzIrm)
+* [使用uiautomator2自动化测试app](https://me.csdn.net/qq_41664526)
 
 ## 致谢
 
